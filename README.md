@@ -30,5 +30,5 @@ Inspired by the minimal and aesthetic vibe of **Spotify**, Haarmoniq focuses on 
 -
 # 🎧 Haarmoniq – Music Player Web App
 
-🔗 **Live Demo:** [Click here to try Haarmoniq]([https://your-username.github.io/Haarmoniq/](https://haarmoniq.netlify.app/)
+🔗 **Live Demo:**(https://haarmoniq.netlify.app/)
 
